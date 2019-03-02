@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+[https://slava-ff.github.io/rsschool-2019Q1-cv/cv](https://slava-ff.github.io/rsschool-2019Q1-cv/cv)
