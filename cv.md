@@ -10,7 +10,8 @@ I am a "pro-newbie" in front-end and back-end. That's my hobby, and I want to tu
 
 ### My skills
 HTML + CSS + JS, node.js, mongo.db, worked with WebStorm (with in-built VCS - bitbucket) and with VSCode (with GitHub)  
-I am familiar to Webpack, babel, jest, eslint. Also I tried Angular, React, Vue.
+I am familiar to Webpack, babel, jest, eslint. 
+Also I "played" with Angular, React, Vue, SASS, LESS, mysql - but still I've never used it in projects, there was no need till today.
 
 ### Experience  
 WEB-DEV:  
