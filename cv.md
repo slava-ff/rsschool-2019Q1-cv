@@ -34,7 +34,7 @@ Google :)
 Non-IT:  
 1st bachelor's degree: Economist (Belarusian State Economics University)  
 2nd bachelor's degree: Lawyer (Belarusian State Economics University)  
-Special education: Marketing Manager, IPM member (European School of Strategic Management)
+Special education: Marketing Manager, IPMA member (European School of Strategic Management)
 
 ### English level
 B2 - in my own opinion
