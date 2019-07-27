@@ -15,9 +15,9 @@ Also I "played" with Angular, React, Vue, SASS, LESS, mysql - but still I've nev
 
 ### Experience  
 WEB-DEV:  
+Piskel-clone (finished cotaskdejam in RSSchool): [https://slava-ff.github.io/piskel-clone-gh-pages/](https://slava-ff.github.io/piskel-clone-gh-pages/)  
 WebChat (my 1st project by myself: [https://github.com/slava-ff/myWebChat](https://github.com/slava-ff/myWebChat  )  
 Youtube (80% finished task in RSSchool): [https://github.com/slava-ff/youtube-client](https://github.com/slava-ff/youtube-client)  
-Animation player (80% finished codejam in RSSchool): [https://github.com/slava-ff/animation-player-gh-pages/tree/gh-pages](https://github.com/slava-ff/animation-player-gh-pages/tree/gh-pages)
 
 PREVIOUS CAREER:  
 Marketing specialist with functions of Marketing manager in exclusive SKODA-Auto importer in Belarus.  
